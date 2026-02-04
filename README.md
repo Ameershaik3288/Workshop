@@ -1,4 +1,4 @@
-Day 3 – Introduction to Neural Networks (PyTorch)
+Introduction to Neural Networks (PyTorch)
 
 This project is part of a workshop and explains the basics of neural networks using PyTorch.
 It shows how a simple neural network can learn patterns from data using training.
